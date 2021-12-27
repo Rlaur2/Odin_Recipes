@@ -1,0 +1,41 @@
+#title {
+    font-weight: 900;
+    text-align: center;
+    font-size: x-large;
+    background-color: brown;
+}
+.chicken {
+    background-color: chocolate;
+    font-size: larger;
+}
+.rice {
+    color: whitesmoke;
+    background-color: black;
+    font-size: larger;
+}
+.beans {
+    color: maroon;
+    background-color: mediumaquamarine;
+    font-size: larger
+}
+.description {
+    color: royalblue
+}
+.ingredients,
+.steps {
+    background-color: slategray;
+}
+.ingredients {
+    color:teal
+}
+.steps {
+    color:rebeccapurple
+}
+div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.return-link {
+    color: black;
+    background-color: yellow;
+}
